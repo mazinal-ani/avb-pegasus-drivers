@@ -1,3 +1,3 @@
 # avb-pegasus-drivers
 
-# in progress
+# this repo is deprecated, visit https://github.com/sourishdasss/usb-driver
